@@ -1,4 +1,4 @@
-s<h1 align="center">Hi 👋, I'm Khaing Myo Zaw</h1>
+<h1 align="center">Hi 👋, I'm Khaing Myo Zaw</h1>
 - 🔭 I’m currently working on [MSIS](https://myansis.com)
 
 - 📫 **kmyozaw.dev@gmail.com**
