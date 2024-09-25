@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Khaing Myo Zaw</h1>
+<h1 align="center">
+  I'm <img src="https://github.com/khaingmyozaw/khaingmyozaw/blob/main/Khaing%20Myo%20Zaw%20(1).gif" alt="Name"/>
+  <img src="https://github.com/khaingmyozaw/khaingmyozaw/blob/main/mical.gif" alt="mical giff" width="48" height="48"/>
+</h1>
 - 🔭 I’m currently working on [MSIS](https://myansis.com)
 
-- 📫 **kmyozaw.dev@gmail.com**
+<h3 align="left">Contact me:</h3>
+📫 Email: kmyozaw.dev@gmail.com
 
-- ⚡ **Rocking with codes.**
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=khaingmyozaw&show_icons=true&theme=transparent" alt="Khaing Myo Zaw's Github Status"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark" alt="Top Languages"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+⚡ **Rocking with codes.**
+
+![Khaing Myo Zaw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaingmyozaw&theme=github-compact)
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khaingmyozaw&theme=algolia)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
