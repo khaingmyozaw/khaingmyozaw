@@ -1,7 +1,7 @@
 <h1 align="center">
   I'm <img src="https://github.com/khaingmyozaw/khaingmyozaw/blob/main/Khaing%20Myo%20Zaw%20(1).gif" alt="Name"/>
   <img src="https://github.com/khaingmyozaw/khaingmyozaw/blob/main/mical.gif" alt="mical giff" width="56" height="56"/>
-</h1>
+</h1>tailwindcss.com
 - 🔭 I’m currently working on [MSIS](https://myansis.com)
 
 <h3 align="left">Contact me:</h3>
@@ -33,4 +33,5 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
