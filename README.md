@@ -1,7 +1,7 @@
 <h1 align="center">
   I'm <img src="https://github.com/khaingmyozaw/khaingmyozaw/blob/main/Khaing%20Myo%20Zaw%20(1).gif" alt="Name"/>
   <img src="https://github.com/khaingmyozaw/khaingmyozaw/blob/main/mical.gif" alt="mical giff" width="56" height="56"/>
-</h1>tailwindcss.com
+</h1>
 - 🔭 I’m currently working on [MSIS](https://myansis.com)
 
 <h3 align="left">Contact me:</h3>
