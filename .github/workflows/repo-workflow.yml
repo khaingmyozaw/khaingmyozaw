@@ -2,7 +2,7 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "55 17 * * *"
+    - cron: "23 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,11 +21,17 @@ jobs:
         with:
           github_username: khaingmyozaw
 
+      - name: Debug SVG Output 
+        run: |
+          ls -lh output
+          head -n 20 output/light.svg
+          head -n 20 output/dark.svg
+
       - name: Move generated SVGs
         run: |
           mkdir -p images
-          mv output/light.svg images/breakout-light.svg
-          mv output/dark.svg images/breakout-dark.svg
+          cp output/light.svg images/breakout-light.svg
+          cp output/dark.svg images/breakout-dark.svg
 
       - name: Configure git
         run: |
