@@ -20,7 +20,6 @@ jobs:
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: khaingmyozaw
-        cache: false
 
       - name: Move generated SVGs
         run: |
