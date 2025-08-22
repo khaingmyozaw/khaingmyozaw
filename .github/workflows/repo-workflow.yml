@@ -2,7 +2,7 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "30 17 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
       - name: generate SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
-          github_username: ${{ github.khaingmyozaw }}
+          github_username: khaingmyozaw
 
       - name: Move generated SVGs
         run: |
