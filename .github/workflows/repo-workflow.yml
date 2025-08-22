@@ -2,7 +2,7 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "45 17 * * *"
+    - cron: "50 17 * * *"
   workflow_dispatch:
 
 jobs:
@@ -36,4 +36,5 @@ jobs:
         run: |
           git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
