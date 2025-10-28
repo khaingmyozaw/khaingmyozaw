@@ -5,8 +5,8 @@
   "job": "Khaing Myo Zaw",
   "country": "Myanmar",
   "city": "Yangon",
-  "stack": ["Javascript", "PHP", "Laravel", "Jquery", "Bootstrap", "Tailwindcss", "..."],
-  "focused": ["Clean Code", "Maintainable", "Scalable", "Resuable", "..."]
+  "stack": ["Javascript", "PHP", "Laravel", "Jquery", "React", "Bootstrap", "Tailwindcss", "..."],
+  "focused": ["Clean Code", "Maintainable", "Scalable", "Resuable", "Performance"]
 }
 ```
 Wanna take a look my portfolio? Here you go => [zembi](https://khaingmyozaw.github.io/zembi/)
