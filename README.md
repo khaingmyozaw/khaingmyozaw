@@ -5,7 +5,7 @@
   "job": "Khaing Myo Zaw",
   "country": "Myanmar",
   "city": "Yangon",
-  "stack": ["Javascript", "PHP", "Laravel", "Jquery", "React", "Bootstrap", "Tailwindcss", "..."],
+  "stack": ["Javascript", "PHP", "Laravel", "Jquery", "React", "Bootstrap", "Tailwindcss", "Linux", "..."],
   "focused": ["Clean Code", "Maintainable", "Scalable", "Resuable", "Performance"]
 }
 ```
