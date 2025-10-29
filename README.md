@@ -2,7 +2,7 @@
 
 ```json
 {
-  "job": "Khaing Myo Zaw",
+  "job": "Web Developer",
   "country": "Myanmar",
   "city": "Yangon",
   "stack": ["Javascript", "PHP", "Laravel", "Jquery", "React", "Bootstrap", "Tailwindcss", "Linux", "..."],
