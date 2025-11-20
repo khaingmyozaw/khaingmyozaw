@@ -5,7 +5,7 @@
   "job": "Web Developer",
   "country": "Myanmar",
   "city": "Yangon",
-  "stack": ["Javascript", "PHP", "Laravel", "Jquery", "React", "Bootstrap", "Tailwindcss", "Linux", "..."],
+  "stacks": ["Javascript", "PHP", "Laravel", "Jquery", "React", "Bootstrap", "Tailwindcss", "Linux", "..."],
   "focused": ["Clean Code", "Maintainable", "Scalable", "Resuable", "Performance"]
 }
 ```
